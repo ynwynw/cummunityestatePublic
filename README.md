@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot+thymeleaf的物业管理系统(源代码+数据库)129
+## 基于Java+Springboot+thymeleaf的物业管理系统(源代码+数据库+12000字论文+开题+ppt)129
 
 ## 一、系统介绍
 本系统分为管理员、小区管理员、用户三种角色
